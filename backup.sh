@@ -1,0 +1,1 @@
+ruby backup-command.rb $*
